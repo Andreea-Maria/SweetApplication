@@ -16,10 +16,6 @@ import static javaapplication1.MainApp.VerifyUser;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author adeli
- */
 
 public class LoginScreen extends javax.swing.JFrame {
 

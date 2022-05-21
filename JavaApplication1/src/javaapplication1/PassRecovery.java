@@ -13,10 +13,6 @@ import static javaapplication1.MainApp.readAnswer;
 import static javaapplication1.MainApp.updatePassword;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author adeli
- */
 public class PassRecovery extends javax.swing.JFrame {
 
     /**

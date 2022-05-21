@@ -11,11 +11,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author adeli
- */
-
 public class MainApp {
      public static void main(String[] args) throws SQLException {
         DbConnectionAccountsDatabase.connect();

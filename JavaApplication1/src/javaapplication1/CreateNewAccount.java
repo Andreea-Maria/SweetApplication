@@ -17,10 +17,6 @@ import javax.swing.JOptionPane;
 //import static javaapplication1.MainApp.readSpecificRow;
 
 
-/**
- *
- * @author adeli
- */
 public class CreateNewAccount extends javax.swing.JFrame {
 
     /**
